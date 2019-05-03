@@ -1,0 +1,33 @@
+header {
+    background-color: #ffffff;
+    border: #cccccc;
+    width: 75%;
+    margin: auto;
+}
+
+header h1 {
+    background-color: #4aaaa5;
+    width:20%;
+    float: left;
+}
+
+header navbar {
+    float: right;
+    /* width: 20% */
+}
+
+.main {
+    background-color: #dddddd;
+    height: 100%
+}
+
+.section {
+    background-color: #ffffff;
+    width: 75%;
+    float: center;
+    margin: auto;
+}
+
+img {
+    float: left;
+}
