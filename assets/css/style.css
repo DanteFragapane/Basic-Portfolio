@@ -1,5 +1,9 @@
+body {
+    background-image: url("../lilypads.png");
+}
+
 header {
-    background-color: #ffffff;
+    background-color: #aaaaaa;
     border: #cccccc;
     width: 75%;
     margin: auto;
@@ -7,27 +11,23 @@ header {
 
 header h1 {
     background-color: #4aaaa5;
-    width:20%;
+    width:25%;
     float: left;
 }
 
 header navbar {
     float: right;
-    /* width: 20% */
-}
-
-.main {
-    background-color: #dddddd;
-    height: 100%
+    width: 20%
 }
 
 .section {
-    background-color: #ffffff;
+    background-color: white;
     width: 75%;
     float: center;
     margin: auto;
 }
 
-img {
-    float: left;
+img::after {
+    content: "";
+    clear: both;
 }
