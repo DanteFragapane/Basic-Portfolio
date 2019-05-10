@@ -17,8 +17,6 @@ header h1 {
 }
 
 .navbar {
-    display: inline;
-    width: 60%;
     float: right;
     height: 40px;
 }
