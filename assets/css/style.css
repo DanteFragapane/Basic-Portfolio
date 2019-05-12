@@ -54,3 +54,11 @@ img::after {
     display: inline;
     margin: 50px;
 }
+
+footer {
+    color: white;
+    border-top: 8px solid #4aaaa5;
+    background-color: #666666;
+    padding: 20px;
+    text-align: center;
+}
